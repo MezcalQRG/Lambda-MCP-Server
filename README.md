@@ -198,4 +198,4 @@ Expected response:
 
 ---
 
-For more advanced usage, see the SDK and protocol documentation. Contributions and questions welcome!
+For more advanced usage, see the SDK and protocol documentation. Contributions and questions welcome! thank you
