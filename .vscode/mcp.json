@@ -1,0 +1,9 @@
+{
+  "servers": {
+    "weather-mcp-typescript": {
+      "type": "stdio",
+      "command": "node",
+      "args": ["${workspaceFolder}/build/index.js"]
+    }
+  }
+}
